@@ -1,0 +1,21 @@
+[
+  {"russian_word": "Мир", "target_word": "Peace"},
+  {"russian_word": "Учиться", "target_word": "Learn"},
+  {"russian_word": "Еда", "target_word": "Food"},
+  {"russian_word": "Солнце", "target_word": "Sun"},
+  {"russian_word": "Жизнь", "target_word": "Life"},
+  {"russian_word": "Гулять/Прогулка", "target_word": "Walk"},
+  {"russian_word": "Луна", "target_word": "Moon"},
+  {"russian_word": "Мощность", "target_word": "Power"},
+  {"russian_word": "Лучший", "target_word": "Best"},
+  {"russian_word": "Говорить", "target_word": "Said"},
+  {"russian_word": "Каждый", "target_word": "Each"},
+  {"russian_word": "Хорошо", "target_word": "Well"},
+  {"russian_word": "Играть", "target_word": "Play"},
+  {"russian_word": "Писать", "target_word": "Write"},
+  {"russian_word": "бы / было бы", "target_word": "Would"},
+  {"russian_word": "Знать", "target_word": "Know"},
+  {"russian_word": "Вода", "target_word": "Water"},
+  {"russian_word": "Начинать", "target_word": "Start"},
+  {"russian_word": "Книга", "target_word": "Book"}
+]
